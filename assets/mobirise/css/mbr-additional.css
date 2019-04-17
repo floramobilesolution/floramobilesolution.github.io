@@ -3,6 +3,7 @@
 
 
 
+
 body {
   font-style: normal;
   line-height: 1.5;
@@ -40,7 +41,7 @@ body {
   font-size: 1.6rem;
 }
 .display-5 {
-  font-family: 'G_UBHRI';
+  font-family: 'Rubik', sans-serif;
   font-size: 1.5rem;
 }
 .display-5 > .mbr-iconfont {
