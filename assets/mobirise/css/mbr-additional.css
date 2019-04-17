@@ -1867,6 +1867,30 @@ body {
     text-align: center;
   }
 }
+.cid-rnWsJ46rG1 {
+  background-image: url("../../../assets/images/pancard-1-2000x824.jpg");
+}
+.cid-rnWsJ46rG1 .media-container-row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
+}
+@media (min-width: 992px) {
+  .cid-rnWsJ46rG1 .mbr-figure {
+    padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rnWsJ46rG1 .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rnWsJ46rG1 .mbr-text {
+    text-align: center;
+  }
+}
 .cid-rnh2cWLDnU {
   background-image: url("../../../assets/images/mbr-1920x822.jpg");
 }
@@ -1892,6 +1916,73 @@ body {
 }
 .cid-rnh2cWLDnU .card {
   padding-bottom: 1.5rem;
+}
+.cid-rnWsMhZUZC {
+  background-image: url("../../../assets/images/adhar-card-1-1440x810.jpg");
+}
+.cid-rnWsMhZUZC .media-container-row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
+}
+@media (min-width: 992px) {
+  .cid-rnWsMhZUZC .mbr-figure {
+    padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rnWsMhZUZC .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rnWsMhZUZC .mbr-text {
+    text-align: center;
+  }
+}
+.cid-rnWy8j3bFd {
+  background-image: url("../../../assets/images/electricity-1620x637.jpg");
+}
+.cid-rnWy8j3bFd .mbr-figure {
+  margin: 0 auto;
+  width: 100%;
+  display: -webkit-flex;
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+.cid-rnWy8j3bFd .mbr-figure img {
+  height: 100%;
+  margin: 0 auto;
+}
+@media (max-width: 991px) {
+  .cid-rnWy8j3bFd .mbr-figure img {
+    width: 100% !important;
+  }
+}
+.cid-rnWsQn7hUZ {
+  background-image: url("../../../assets/images/money-transfer-2-1000x647.jpg");
+}
+.cid-rnWsQn7hUZ .media-container-row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
+}
+@media (min-width: 992px) {
+  .cid-rnWsQn7hUZ .mbr-figure {
+    padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rnWsQn7hUZ .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rnWsQn7hUZ .mbr-text {
+    text-align: center;
+  }
 }
 .cid-qTkAaeaxX5 {
   padding-top: 60px;
