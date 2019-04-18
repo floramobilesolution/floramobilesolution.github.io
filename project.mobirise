@@ -56,18 +56,19 @@
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 29,
+    "uniqCompNum": 30,
     "versionPublish": "4.9.7",
     "favicon": "",
     "noImageResize": "",
-    "siteUrl": "",
+    "siteUrl": "https://floramobilesolution.github.io/",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-84995837-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-84995837-1');\r\n</script>\r\n",
     "cookiesAlert": "",
     "gdpr": "",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "",
-    "sitemapSwitcherAuto": "on"
+    "sitemapSwitcherAuto": "on",
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {
@@ -908,10 +909,10 @@
         {
           "loadsvg": "@PROJECT_PATH@/assets/images/loading.svg",
           "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "3",
-            "postToLoad": "5",
-            "facebook": "https://www.facebook.com/floramobilesolutions/",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "postToLoad": 3,
+            "facebook": "floramobilesolutions",
             "twitter": "",
             "google": "",
             "youtube": "",
@@ -928,7 +929,7 @@
             "Extension"
           ],
           "_name": "feed",
-          "_anchor": "feed-m"
+          "_anchor": "feed-t"
         },
         {
           "_params": {
