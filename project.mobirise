@@ -906,11 +906,36 @@
           "_params": {}
         },
         {
+          "loadsvg": "@PROJECT_PATH@/assets/images/loading.svg",
           "_params": {
-            "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "postToLoad": "5",
+            "facebook": "https://www.facebook.com/floramobilesolutions/",
+            "twitter": "",
+            "google": "",
+            "youtube": "",
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/social-feed/feed/assets/comments_bg.jpg",
+            "overlay": true,
+            "overlayColor": "#7e9b9f",
+            "overlayOpacity": 0.6
+          },
+          "alias": "social-feed",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "feed",
+          "_anchor": "feed-m"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "socialFacebook": true,
-            "postsNumber": 5,
+            "postsNumber": "14",
             "socialGoogle": false,
             "socialDisqus": false,
             "shortName": "",
@@ -931,31 +956,6 @@
           ],
           "_name": "facebook-comments-block",
           "_anchor": "facebook-comments-block-n"
-        },
-        {
-          "loadsvg": "@PROJECT_PATH@/assets/images/loading.svg",
-          "_params": {
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "postToLoad": 3,
-            "facebook": "https://www.facebook.com/floramobilesolutions",
-            "twitter": "https://www.facebook.com/floramobilesolutions",
-            "google": "https://www.facebook.com/floramobilesolutions",
-            "youtube": "https://www.facebook.com/floramobilesolutions",
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/social-feed/feed/assets/comments_bg.jpg",
-            "overlay": true,
-            "overlayColor": "#7e9b9f",
-            "overlayOpacity": 0.6
-          },
-          "alias": "social-feed",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "feed",
-          "_anchor": "feed-m"
         },
         {
           "_styles": {
